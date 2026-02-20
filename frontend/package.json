@@ -29,8 +29,10 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-email": "^4.2.11",
-    "resend": "^6.1.0",
-    "three": "^0.180.0"
+    "recharts": "^3.7.0",
+    "resend": "^6.9.2",
+    "three": "^0.180.0",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
