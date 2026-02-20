@@ -1,0 +1,8 @@
+pandas==2.1.0
+numpy==1.24.3
+scikit-learn==1.3.0
+yfinance==0.2.20
+textblob==0.17.1
+requests==2.31.0
+flask==2.3.3
+python-dotenv==1.0.0
